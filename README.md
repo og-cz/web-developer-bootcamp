@@ -1,6 +1,6 @@
 # [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/)
 
-This repository contains my projects and code from **Colt Steele’s Web Developer Bootcamp** on Udemy.
+Note: I stopped taking this course because it felt too slow and repetitive for my skill level, so this repository only covers the parts I completed and some parts ill just watch for learning
 
 - Frontend: HTML5, CSS3, Flexbox, Grid, Responsive Design, Bootstrap, Bulma, Semantic UI
 - JavaScript: Core syntax, ES6+, DOM manipulation, AJAX, async/await, Promises
@@ -13,3 +13,6 @@ This repository contains my projects and code from **Colt Steele’s Web Develop
 - Extras: Image upload & storage, maps & geocoding, developer best practices
 
 *This repository serves as a record of my personal learning journey. It is not intended as a tutorial or solution set*
+
+### Certificate
+<img src="certificate.png" alt="certificate" width="75%">
